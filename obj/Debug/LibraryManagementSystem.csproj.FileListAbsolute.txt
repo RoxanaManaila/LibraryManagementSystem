@@ -1,0 +1,17 @@
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterForm.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooks.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooks.resources
+C:\Users\Roxi\Desktop\projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooks.resources
